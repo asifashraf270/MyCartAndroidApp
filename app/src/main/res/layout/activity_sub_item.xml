@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="glowingsoft.com.mycart.Activities.SubItemActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/ToolBarSub"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/toolbarTitle"
+            android:textStyle="bold"
+            style="@style/Base.TextAppearance.AppCompat.Large"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical">
+
+            <ru.nikartm.support.ImageBadgeView
+                android:id="@+id/imageBadgeView"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:padding="5dp"
+                android:src="@drawable/shoppingcart"
+                app:ibv_badgeColor="@color/buttonColor"
+                app:ibv_badgeTextColor="@color/white"
+                app:ibv_badgeTextSize="10sp"
+                app:ibv_badgeTextStyle="bold"
+                app:ibv_fixedBadgeRadius="10dp" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    </LinearLayout>
+</LinearLayout>

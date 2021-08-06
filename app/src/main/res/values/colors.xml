@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#bbf78a</color>
+    <color name="colorProgressBar">#fc5d9a</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackNormal">#353434</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlue">#2a4fc9</color>
+    <color name="greyColor">#FFA4A4A6</color>
+    <color name="buttonColor">#FE0338</color>
+</resources>

@@ -1,0 +1,800 @@
+<resources>
+    <string name="app_name">My Cart</string>
+    <string name="loginToolBar"><b>Listonic</b></string>
+    <string name="admob_banner">ca-app-pub-4665124310418086/4539020824</string>
+    <string name="admob_interstial">ca-app-pub-4665124310418086/6276388725</string>
+    <string name="appId">ca-app-pub-4665124310418086~9791347505</string>
+
+    <string name="facebook_app_id">355929971650716</string>
+    <string name="fb_login_protocol_scheme">fb355929971650716</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="list"><b>My Lists</b></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="item_Catalog">
+        <item>Alcoholic Drinks</item>
+        <item>Bady products</item>
+        <item>Bakery</item>
+        <item>Beverages</item>
+        <item>canned foods</item>
+        <item>car care foods</item>
+        <item>Clothes</item>
+        <item>coffee,tea and hot chocolate</item>
+        <item>cosmetics</item>
+        <item>dairy products</item>
+        <item>diet foods</item>
+        <item>Electrical Products</item>
+        <item>fist and seafood</item>
+        <item>Frozen</item>
+        <item>Grains and pasta</item>
+        <item>Home and Kitchen</item>
+        <item>Home Baking</item>
+        <item>House-cleaning products</item>
+        <item>meat,poultry and sausages</item>
+        <item>newspaper</item>
+    </string-array>
+    <string-array name="popularList">
+        <item>Milk</item>
+        <item>Bread</item>
+        <item>Eggs</item>
+        <item>Butter</item>
+        <item>Cheese</item>
+        <item>Toilet Paper</item>
+        <item>Chicken</item>
+        <item>Potatoes</item>
+        <item>Lettuce</item>
+        <item>ToothPaste</item>
+        <item>Juice</item>
+        <item>Shampoo</item>
+        <item>Water</item>
+        <item>KetchUp</item>
+        <item>Rice</item>
+        <item>Ham</item>
+        <item>Cucumber</item>
+        <item>Pasta</item>
+        <item>Ice Cream</item>
+        <item>Tuna</item>
+        <item>Olive Oil</item>
+        <item>Tea</item>
+        <item>Beer</item>
+        <item>Conditioner</item>
+        <item>Sausage</item>
+        <item>Cookies</item>
+        <item>Laundry detergent</item>
+        <item>Mustard</item>
+        <item>mayonnaise</item>
+        <item>Chocolate</item>
+        <item>Turkey</item>
+        <item>Tampons</item>
+        <item>Shower Gel</item>
+        <item>Deodarant</item>
+        <item>Chicken Nuggets</item>
+        <item>Baby food</item>
+        <item>Pizza</item>
+
+    </string-array>
+    <string-array name="alcoholic_drink">
+        <item>Ale Beer</item>
+        <item>Beer</item>
+        <item>Brandy</item>
+        <item>Champagne</item>
+        <item>Cider</item>
+        <item>Cognac</item>
+        <item>Dry Wine</item>
+        <item>Filters</item>
+        <item>Flavored Beer</item>
+        <item>Flavored Vodka</item>
+        <item>Gin</item>
+        <item>Honey Beer</item>
+        <item>Lager Beer</item>
+        <item>Liqueur</item>
+        <item>Martini</item>
+        <item>Porter Beer</item>
+        <item>Red Wine</item>
+        <item>Rolling Papers</item>
+        <item>Root Beer</item>
+        <item>Rose Wine</item>
+        <item>Rum</item>
+        <item>Semi-dry-wine</item>
+        <item>Semi-sweet-wine</item>
+        <item>Sparkling wine</item>
+        <item>Sout Beer</item>
+        <item>Sweet Wine</item>
+        <item>Tequila</item>
+        <item>Vodka</item>
+        <item>Wheat Beer</item>
+        <item>Whiskey</item>
+        <item>White wine</item>
+    </string-array>
+    <string-array name="baby_products">
+        <item>Baby Dinner</item>
+        <item>Baby Food</item>
+        <item>Baby formula</item>
+        <item>Baby healing ointment</item>
+        <item>Baby milk</item>
+        <item>Baby oil</item>
+        <item>Baby powder</item>
+        <item>Baby shampoo</item>
+        <item>Bed mats</item>
+        <item>Diaper Rash Cream</item>
+        <item>Diapers</item>
+        <item>Feeling Bottle</item>
+        <item>Infant Formula</item>
+        <item>Nurser</item>
+    </string-array>
+    <string-array name="bakery">
+        <item>apple pis</item>
+        <item>Bagets</item>
+        <item>Beguette</item>
+        <item>Birthday Cake</item>
+        <item>Bread</item>
+        <item>Breadcrumbs</item>
+        <item>Brownie</item>
+        <item>Bruschetta</item>
+        <item>Buns</item>
+        <item>Cheesecake</item>
+        <item>Chocolate cake</item>
+        <item>Ciabatta</item>
+        <item>Coffee Cake</item>
+        <item>Corm tortillas</item>
+        <item>Croissants</item>
+        <item>Croutons</item>
+        <item>Cupcakes</item>
+        <item>Donut</item>
+        <item>Dough</item>
+        <item>English Muffins</item>
+        <item>Flour Tortillas</item>
+        <item>French Bread</item>
+        <item>Garlic Bread</item>
+        <item>Ginger Bread</item>
+        <item>Graham Bread</item>
+        <item>Grain Bread</item>
+        <item>HamBurger Buns</item>
+        <item>Hot Dogs Buns</item>
+        <item>Matza</item>
+        <item>Muffins</item>
+        <item>Pic</item>
+        <item>Pita Bread</item>
+        <item>Puff Pastry</item>
+        <item>Rolls</item>
+        <item>Rye Bread</item>
+        <item>Sandwich Bread</item>
+        <item>Seed Bread</item>
+        <item>Sweet Rolls</item>
+        <item>Taco Shells</item>
+        <item>Tiramisu Cake</item>
+        <item>Toast Bread</item>
+        <item>Tortilla Wraps</item>
+        <item>Wheet Bread</item>
+        <item>White Bread</item>
+    </string-array>
+    <string-array name="beverages">
+        <item>Apple Juice</item>
+        <item>Bottled Water</item>
+        <item>Coconut Water</item>
+        <item>Cola</item>
+        <item>Cranberry Juice</item>
+        <item>Drinks</item>
+        <item>Eggnog</item>
+        <item>Energy Drink</item>
+        <item>Fruit Juice</item>
+        <item>Ginger ale</item>
+        <item>Grape Juice</item>
+        <item>Half and Half</item>
+        <item>Iced Coffee</item>
+        <item>Ice Tea</item>
+        <item>Isotonic Drink</item>
+        <item>Juice</item>
+        <item>Lemonade</item>
+        <item>Lemon Juice</item>
+        <item>Lime Juice</item>
+        <item>Mineral Water</item>
+        <item>Orange Juice</item>
+        <item>Pinapple Juice</item>
+        <item>Prune Juice</item>
+        <item>Rasberry Sirup</item>
+        <item>Seltzer</item>
+        <item>Soda</item>
+        <item>Soda Water</item>
+        <item>Soft Drink</item>
+        <item>Sparking Water</item>
+        <item>Sports Drink</item>
+        <item>Still Mineral Water</item>
+        <item>Tomato Juice</item>
+        <item>Tonic Water</item>
+        <item>vitamin Water</item>
+    </string-array>
+    <string-array name="canned_food">
+        <item>Apple Cider Vinegar</item>
+        <item>Balsamic Vinegar</item>
+        <item>Beef Broth</item>
+        <item>Beef Stew</item>
+        <item>Canned Beans</item>
+        <item>Canned Chicken</item>
+        <item>Canned Chicken </item>
+        <item>Canned peas</item>
+        <item>Caramel Sauce</item>
+        <item>Chicken Broth</item>
+        <item>Chicken Chunks</item>
+        <item>Chocolate Sauce</item>
+        <item>Chocolate Syrup</item>
+        <item>Cream of chicken Soup</item>
+        <item>Dijon mustard</item>
+        <item>Dried Mushrooms</item>
+        <item>Honey</item>
+        <item>Honey Mustard</item>
+        <item>Ice Cream Topping</item>
+        <item>Ketchup</item>
+        <item>Lentil soup</item>
+        <item>Maple syrup</item>
+        <item>Mayonnaise</item>
+        <item>Mushroom soup</item>
+        <item>Mustard</item>
+        <item>Nuteela</item>
+        <item>Peanut Butter</item>
+        <item>Pea soup</item>
+        <item>Syrup</item>
+        <item>Tomato Soup</item>
+        <item>Vegatable Broth</item>
+        <item>Vegatable Soup</item>
+        <item>Vinaigrette</item>
+        <item>Vinegar</item>
+    </string-array>
+    <string-array name="car_care_product">
+        <item>Car Shampoo</item>
+        <item>Car waxs</item>
+        <item>Distilled Water</item>
+        <item>Engine Oil</item>
+        <item>Motor Oil</item>
+        <item>Screen Wash </item>
+    </string-array>
+    <string-array name="Clothes">
+        <item>Belt</item>
+        <item>Blouse</item>
+        <item>BodySuit</item>
+        <item>Cap</item>
+        <item>Cloths</item>
+        <item>Coat</item>
+        <item>Flip-flops</item>
+        <item>gloves</item>
+        <item>Jacket</item>
+        <item>Jeans</item>
+        <item>Leggings</item>
+        <item>Panties</item>
+        <item>PantyHous</item>
+        <item>Rainboots</item>
+        <item>Scarf</item>
+        <item>Shirt</item>
+        <item>Shoes</item>
+        <item>Slippers</item>
+        <item>Socks</item>
+        <item>Sunglasses</item>
+        <item>Sweater</item>
+        <item>Swimsuit</item>
+        <item>t-Shirt</item>
+        <item>UnderPants</item>
+        <item>UnderPants</item>
+    </string-array>
+    <string-array name="coffea_tea_hotChocolate">
+        <item>Black Tea</item>
+        <item>Cappuccino</item>
+        <item>Chamomile Tea</item>
+        <item>Cocoa</item>
+        <item>Coffee</item>
+        <item>Earl Grey</item>
+        <item>Fruit Tea</item>
+        <item>Green Tea </item>
+        <item>Ground Coffee </item>
+        <item>herbal Tea </item>
+        <item>Hot Chocolate </item>
+        <item>Instant Coffee </item>
+        <item>Melissa Tea </item>
+        <item>Mint Tea </item>
+        <item>Read Tea </item>
+        <item>Tea Bags </item>
+    </string-array>
+    <string-array name="cosmetics">
+        <item>After Sun Lotion</item>
+        <item>Anti insect Spray</item>
+        <item>Antiperspirant</item>
+        <item>Anti-wrinkle cream</item>
+        <item>Bar soap</item>
+        <item>Bath Gel</item>
+        <item>Bath Salt</item>
+        <item>Body Lotion</item>
+        <item>Body wash</item>
+        <item>Cleanser</item>
+        <item>Concealer</item>
+        <item>Conditioner</item>
+        <item>Deodorant</item>
+        <item>Dry Shampoo</item>
+        <item>Eyeliner</item>
+        <item>Face Cream</item>
+        <item>Face Wash </item>
+        <item>Face wipes</item>
+        <item>Face Cleanser</item>
+        <item>Feminine Wash</item>
+        <item>Floss</item>
+        <item>Foot Cream</item>
+        <item>Foundation</item>
+        <item>Hair Brush</item>
+        <item>Hair Dye</item>
+        <item>Hair Gel</item>
+        <item>Hair Spray</item>
+        <item>Hand Cream</item>
+        <item>Hand Soap</item>
+        <item>Handwash</item>
+        <item>Lip Balm</item>
+        <item>Lipstick</item>
+        <item>Liquid soap</item>
+        <item>Makeup</item>
+        <item>Make-up remover</item>
+        <item>Mascara</item>
+        <item>Micellar water</item>
+        <item>Mouthwash</item>
+        <item>Nail Polish</item>
+        <item>Nail Polish Remover</item>
+        <item>peeling</item>
+        <item>perfume</item>
+        <item>Srub</item>
+        <item>Sampoo</item>
+        <item>Shave Cream</item>
+        <item>Shaveing Cream</item>
+        <item>Shaveing foam</item>
+        <item>Shaveing Gel </item>
+        <item>Shower Gel</item>
+        <item>Soap</item>
+        <item>Sunscreen</item>
+        <item>Suntan Spray</item>
+
+    </string-array>
+    <string-array name="dairy_products">
+        <item>American Cheese</item>
+        <item>Blue Cheese</item>
+        <item>Brie Cheese</item>
+        <item>Butter</item>
+        <item>Buttermilk</item>
+        <item>camembert Cheese</item>
+        <item>Cheddar</item>
+        <item>Cheddar cheese</item>
+        <item>Cheese</item>
+        <item>Cheese Spread</item>
+        <item>Cheese Sticks</item>
+        <item>Chocolate Milk</item>
+        <item>Chocolate pudding</item>
+        <item>Coffee Creamer</item>
+        <item>Condensed Milk</item>
+        <item>Cottage Cheese</item>
+        <item>Cream</item>
+        <item>Cream cheese</item>
+        <item>Cream cheese Spread</item>
+        <item>Dessert</item>
+        <item>Edam cheese</item>
+        <item>Evaporated Milk</item>
+        <item>Feta Cheese</item>
+        <item>Fruit Yogurt</item>
+        <item>Garlic Butter</item>
+        <item>Ghee</item>
+        <item>Goat Cheese</item>
+        <item>Goat milk</item>
+        <item>Gorgonzola Cheese</item>
+        <item>Gouda Cheese</item>
+        <item>Grated Cheese</item>
+        <item>Greek yogurt</item>
+        <item>Heavy Cream</item>
+        <item>Kefir</item>
+        <item>Mascarpone</item>
+        <item>Mexican Cheese</item>
+        <item>Mozzarella</item>
+        <item>Natural Yogurt</item>
+        <item>Parmesan Cheese</item>
+        <item>Pepper Jack cheese</item>
+        <item>Processed Cheese</item>
+        <item>Provolone cheese</item>
+        <item>Pudding</item>
+        <item>Rice Pudding</item>
+        <item>Ricotta Cheese</item>
+        <item>Shredded Cheese</item>
+        <item>Skim Milk</item>
+        <item>Smoothie</item>
+        <item>Sour Cream</item>
+        <item>Swiss cheese</item>
+        <item>Unsalted Butter</item>
+        <item>Whole Milk</item>
+    </string-array>
+    <string-array name="diet_foods">
+        <item>Almond Butter</item>
+        <item>Almond Milk</item>
+        <item>Cocunut Milk</item>
+        <item>Lactose Free Milk</item>
+        <item>Protein Poweder</item>
+        <item>soy Cutlets</item>
+        <item>soy Milk</item>
+        <item>Stevia</item>
+        <item>Tofu</item>
+        <item>Vanilla Milk</item>
+        <item>Vegan Sausage</item>
+        <item>Vegan Sausage</item>
+    </string-array>
+    <string-array name="electrical_products">
+        <item>Batties</item>
+    </string-array>
+    <string-array name="fish_Seafood">
+        <item>Anchovies</item>
+        <item>Anhovy Pasta</item>
+        <item>Canned Brisling</item>
+        <item>Canned Fish</item>
+        <item>Canned Herring</item>
+        <item>Canned Mackerel</item>
+        <item>Canned sardines</item>
+        <item>Canned Tuna</item>
+        <item>Carp</item>
+        <item>Clams</item>
+        <item>Cod</item>
+        <item>Crab Fingers</item>
+        <item>Crabs</item>
+        <item>Fish Fillet</item>
+        <item>Fish fingers</item>
+        <item>Fish Sticks</item>
+        <item>Halibut</item>
+        <item>Herring</item>
+        <item>Herring fillets</item>
+        <item>Lobster</item>
+        <item>Mackerel</item>
+        <item>Mussels</item>
+        <item>Oysters</item>
+        <item>Perch</item>
+        <item>Prawns</item>
+        <item>Salmon</item>
+        <item>Salmon Steak</item>
+        <item>Sardines</item>
+        <item>Scallops</item>
+        <item>Seafood</item>
+        <item>Shrimps</item>
+        <item>Smoked fish</item>
+        <item>Smoked mackerel</item>
+        <item>Smoked salmon</item>
+        <item>Swordfish Salmon</item>
+        <item>swordfish fillet</item>
+        <item>Tilapia fillet </item>
+        <item>Trout fillet</item>
+        <item>Trout</item>
+        <item>Tuna</item>
+        <item>Tuna Chunks</item>
+        <item>Tuna in oil</item>
+        <item>Tuna in water</item>
+    </string-array>
+    <string-array name="frozen">
+        <item>French Fries</item>
+        <item>French Pastry</item>
+        <item>French Barries</item>
+        <item>Frozen Barries</item>
+        <item>Frozen BlueBerries</item>
+        <item>Frozen Broccoli</item>
+        <item>Frozen Cauliflower</item>
+        <item>Frozen chicken nuggets</item>
+        <item>Frozen corn</item>
+        <item>Frozen Dumplings</item>
+        <item>Frozen Fruit</item>
+        <item>Frozen Mussels</item>
+        <item>Frozen peas</item>
+        <item>Frozen pizza</item>
+        <item>Frozen prawns</item>
+        <item>Frozen Seafood</item>
+        <item>Frozen Spinach</item>
+        <item>Frozen Strawberries</item>
+        <item>Frozen Vegatables</item>
+        <item>Frozen Vegatables mix</item>
+        <item>ice</item>
+        <item>ice Cream</item>
+        <item>Lasagne Frozen</item>
+        <item>Popsicles</item>
+        <item>Popsicles</item>
+    </string-array>
+    <string-array name="grainspasta">
+        <item>Arborio Rice</item>
+        <item>Barley</item>
+        <item>Barley flakes</item>
+        <item>Basmatic Rice</item>
+        <item>Basmatic Beans</item>
+        <item>Black Beans </item>
+        <item>Bow tie Pasta</item>
+        <item>Bran</item>
+        <item>Bran Flakes</item>
+        <item>Brown rice</item>
+        <item>Brown sugar</item>
+        <item>Buckwheat</item>
+        <item>Cake flour</item>
+        <item>Caster sugar</item>
+        <item>Cereal</item>
+        <item>Colour Pasta</item>
+        <item>Corn flakes</item>
+        <item>Corm flour</item>
+        <item>Corn starch</item>
+        <item>Couscous</item>
+        <item>Egg Noodles</item>
+        <item>Elbow Pasta</item>
+        <item>Flaxseed</item>
+        <item>Flour</item>
+        <item>granola</item>
+        <item>grits</item>
+        <item>Jasmine rice</item>
+        <item>Lasagne Pasta</item>
+        <item>Long Grain rice</item>
+        <item>Macaroni</item>
+        <item>Millet</item>
+        <item>Millet Groats</item>
+        <item>Muesli</item>
+        <item>CatMeal</item>
+        <item>Catmeal squares</item>
+        <item>Cats</item>
+        <item>Parboiled rice</item>
+        <item>Pasta</item>
+        <item>Penne</item>
+        <item>Potato Flour</item>
+        <item>Potato Starch</item>
+        <item>Powdered Sugar</item>
+        <item>quinoa</item>
+        <item>Ramen Noodies</item>
+        <item>Rice</item>
+        <item>Rice Noodles</item>
+        <item>Rolled Oats</item>
+        <item>Rotini Pasta</item>
+        <item>Semolina</item>
+        <item>Spaghetti</item>
+        <item>Spiral Pasta</item>
+        <item>thai Rice</item>
+        <item>tortellini</item>
+        <item>wheat Flour</item>
+        <item>white rice</item>
+        <item>Whole Grain Pasta</item>
+    </string-array>
+    <string-array name="homekitchen">
+        <item>Air Freshnener</item>
+        <item>Aluminium Trays</item>
+        <item>Aluminium Foil</item>
+        <item>Bags</item>
+        <item>Baking Paper</item>
+        <item>Baking Trays</item>
+        <item>Bath mat</item>
+        <item>Bed Sheet</item>
+        <item>Blanket</item>
+        <item>Bottle Opener</item>
+        <item>Bowl</item>
+        <item>Bulbs</item>
+        <item>Cake Pan</item>
+        <item>Candles</item>
+        <item>Charcoal</item>
+        <item>Cheese Slicer</item>
+        <item>clothes Hangers</item>
+        <item>coffee Filters</item>
+        <item>Colander</item>
+        <item>Cookie Cutter</item>
+        <item>Cooking Bag</item>
+        <item>Cutting Board</item>
+        <item>disposable Cutlery</item>
+        <item>Firelog</item>
+        <item>Foil</item>
+        <item>Food container</item>
+        <item>Food Wrap</item>
+        <item>Freezer Bags</item>
+        <item>Frying pan</item>
+        <item>Grater</item>
+        <item>Greaseproof paper</item>
+        <item>Hangers</item>
+        <item>Ice cube Tray</item>
+        <item>Kettle</item>
+        <item>Knife</item>
+        <item>Light Bulbs</item>
+        <item>Lighter</item>
+        <item>mason jars</item>
+        <item>matches</item>
+        <item>measuring Cups</item>
+        <item>Muffin Pan</item>
+        <item>Pan</item>
+        <item>Paper Bags</item>
+        <item>Paper Bowls</item>
+        <item>Paper Napkins</item>
+        <item>Paper Plates</item>
+        <item>Party Cutlery</item>
+        <item>Peeler</item>
+        <item>Pie Pan</item>
+        <item>Plant Pot</item>
+        <item>Plastic Cups</item>
+        <item>Plastic Cultery</item>
+        <item>Plastic Foil</item>
+        <item>Plastic Plates</item>
+        <item>Plastic Spoons</item>
+        <item>Pot</item>
+        <item>Sandwich Bags</item>
+        <item>Scissors</item>
+        <item>Shower Curtain</item>
+        <item>Skewers</item>
+        <item>Spray Bottle</item>
+        <item>Storage Bags</item>
+        <item>Strainer</item>
+        <item>Straws</item>
+        <item>Table Cover</item>
+        <item>Tea pot</item>
+        <item>Tooth picks</item>
+        <item>Trash bags</item>
+        <item>Travel Cup</item>
+        <item>Turner</item>
+        <item>Waste Bags</item>
+        <item>Wooden spoon</item>
+
+    </string-array>
+    <string-array name="homebaking">
+        <item>Almonds</item>
+        <item>Bake Mix</item>
+        <item>Baking decorations</item>
+        <item>Baking powder</item>
+        <item>Baking soda</item>
+        <item>cake mix</item>
+        <item>caramel</item>
+        <item>disiccaed cconut</item>
+        <item>dried apricots</item>
+        <item>dried bananas</item>
+        <item>dried cranberries</item>
+        <item>dried date fruit</item>
+        <item>dried fruits</item>
+        <item>dried milk</item>
+        <item>dried plums</item>
+        <item>Frosting</item>
+        <item>Gelatine</item>
+        <item>icing</item>
+        <item>icing sugar</item>
+        <item>milkshake</item>
+        <item>orange peel</item>
+        <item>pancake mix</item>
+        <item>perchment paper</item>
+        <item>pie crust</item>
+        <item>pie shell</item>
+        <item>poppy seeds</item>
+        <item>prunes</item>
+        <item>pumpkin seeds</item>
+        <item>raisins</item>
+        <item>sesame seeds</item>
+        <item>sunflower seeds</item>
+        <item>vanilla extract</item>
+        <item>vanilla pod</item>
+        <item>vanilla sugar</item>
+        <item>whipped cream</item>
+        <item>whipped cream powder</item>
+        <item>whipped cream powder</item>
+    </string-array>
+    <string-array name="houseCleaningProducts">
+        <item>BathRoom Cleaner</item>
+        <item>Bin Liners</item>
+        <item>Bleach</item>
+        <item>Bottle Brush</item>
+        <item>Bowl Brush </item>
+        <item>Broom</item>
+        <item>Brush</item>
+        <item>Carpet Cleaner</item>
+        <item>Cream cleaner</item>
+        <item>Descaler</item>
+        <item>Dish Soap</item>
+        <item>dishwasher cleaner</item>
+        <item>dishwasher detergent</item>
+        <item>dishwasher salt</item>
+        <item>dishwasher Tablets</item>
+        <item>dishwasher Liquid</item>
+        <item>dishwasher  Wipes</item>
+        <item>Drain Cleaner</item>
+        <item>Dryer Sheets</item>
+        <item>dusters</item>
+        <item>Fabric freshener</item>
+        <item>Fabric softener</item>
+        <item>Floor cleaner</item>
+        <item>Floor polish</item>
+        <item>glass cleaner</item>
+        <item>laundry bag</item>
+        <item>Laundry detergent</item>
+        <item>mop</item>
+        <item>Oven Cleaner</item>
+        <item>Plunger</item>
+        <item>Rubber Gloves</item>
+        <item>Scrub sponge</item>
+        <item>Softener</item>
+        <item>Sponge</item>
+        <item>Sponge cloth</item>
+        <item>Stain remover</item>
+        <item>Sweeper</item>
+        <item>Toilet Brush</item>
+        <item>Toilet cleaning gel</item>
+        <item>Toilet rim block</item>
+        <item>Washing Liquid</item>
+        <item>Washing Powder</item>
+    </string-array>
+    <string-array name="meat_poutry">
+        <item>Artichoke hearts</item>
+        <item>Bacon</item>
+        <item>Bacon bits</item>
+        <item>BBQ sausage</item>
+        <item>Beef</item>
+        <item>Beef chuck</item>
+        <item>Beef for stew</item>
+        <item>Beef liver</item>
+        <item>Beef patty</item>
+        <item>Beef ribeye steak</item>
+        <item>Beef ribs</item>
+        <item>Beef steak</item>
+        <item>Beef stock</item>
+        <item>Beef ham</item>
+        <item>Brisket</item>
+        <item>Chicken</item>
+        <item>Chicken Breast</item>
+        <item>Chicken Drumsticks</item>
+        <item>Chicken Livers</item>
+        <item>Chicken stock</item>
+        <item>Chicken tendors</item>
+        <item>Chicken thinghs</item>
+        <item>Chicken wrings</item>
+        <item>Chorizo</item>
+        <item>Cooked meats</item>
+        <item>Corned beef</item>
+        <item>duck</item>
+        <item>fillet</item>
+        <item>Goose</item>
+        <item>Ground meat</item>
+        <item>Ground pork</item>
+        <item>Ground turkey</item>
+        <item>Guinea fowl</item>
+        <item>Ham</item>
+        <item>Lamb</item>
+        <item>Lamb Shanks</item>
+        <item>Lamb Shoulder</item>
+        <item>Liver</item>
+        <item>Loin</item>
+        <item>luncheon meat</item>
+        <item>lunch meat</item>
+        <item>Meat</item>
+        <item>MeatBalls</item>
+        <item>Minced beef</item>
+        <item>Mutton</item>
+        <item>Parma ham</item>
+        <item>Pate</item>
+        <item>pepperoni</item>
+        <item>pork</item>
+        <item>pork chops</item>
+        <item>pork for stew</item>
+        <item>pork loin</item>
+        <item>pork pate</item>
+        <item>pork ribs</item>
+        <item>pork shank</item>
+        <item>pork shoulder</item>
+        <item>Rabbit</item>
+        <item>ribs</item>
+        <item>Roasted Ham</item>
+        <item>Rotisserie Chicken</item>
+        <item>Salmon pate</item>
+        <item>Sausage</item>
+        <item>Silverside</item>
+        <item>Sirloin</item>
+        <item>Smoked pork</item>
+        <item>Smoked sausage</item>
+        <item>Steak</item>
+        <item>Steak tartare</item>
+        <item>Tripe</item>
+        <item>Turkey</item>
+        <item>Turkey bacon</item>
+        <item>Turkey breast</item>
+        <item>Turkey drumsticks</item>
+        <item>Turkey meat</item>
+        <item>Turkey sausage</item>
+        <item>Turkey wings</item>
+        <item>veal</item>
+        <item>Wieners</item>
+    </string-array>
+    <string-array name="newspaper">
+        <item>Newspaper</item>
+        <item>Tv Guide</item>
+    </string-array>
+</resources>
